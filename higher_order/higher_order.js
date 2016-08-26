@@ -7,7 +7,13 @@ var loop = function(collection, callback) {
 };
 
 // write your talkToUser function here:
-
+var talkToUser = function(){
+    loop(var i = 0; i < ('collection', callback) {
+	 (var i = 0; i < .length; i++);
+		callback(collection[i]);
+		
+    
+}
 
 // Use this to test your talkToUser function:
 
